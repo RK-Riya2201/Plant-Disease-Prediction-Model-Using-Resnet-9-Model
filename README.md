@@ -1,2 +1,3 @@
-﻿# Plant-Disease-Prediction-Model-Using-Resnet-9-Model
+﻿# Plant-Disease-Prediction-Model-Using-Resnet-9
+
 
